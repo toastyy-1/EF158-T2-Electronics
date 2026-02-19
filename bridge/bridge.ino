@@ -11,7 +11,7 @@ typedef struct {
 // setup code for the bridge
 void setup() {
   // initialize the sensors and variables
-
+  
 }
 
 // program loop for the bridge -- this runs infinitely
